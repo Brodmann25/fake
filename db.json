@@ -1,101 +1,302 @@
-{
-{
-  "galleries": [
- {"name": "Kumu", "address": {"city": "Tallinn","district": "kadriorg","street": "A. Weizenbergi 34, 10127 Tallinn"},"image": "https://lh5.googleusercontent.com/p/AF1QipMbFoj6AqzAZo-hKX9y2euef4y8U3wqusDANkEE=w408-h306-k-no","created": 1653046073,"id": "1"},
- {
-  "name": "Kai Art",
-  "address": {
-   "city": "Tallinn",
-   "district": "noblesner",
-   "street": "Peetri 12, 10415 Tallinn"
+[
+  {
+    "name": "Kumu",
+    "address": {
+      "city": "Tallinn",
+      "district": "kadriorg",
+      "street": "A. Weizenbergi 34, 10127 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMbFoj6AqzAZo-hKX9y2euef4y8U3wqusDANkEE=w408-h306-k-no",
+    "created": 1653046073,
+    "id": "1"
   },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipNf1FwVY-esvSN8mRm7twqgiGKUT737CDV6C8pt=w408-h272-k-no",
-  "created": 1653046013,
-  "id": "2"
- },
- {
-  "name": "Contemporary Art Museum of Estonia",
-  "address": {
-   "city": "Tallinn",
-   "district": "põhja-tallinn",
-   "street": "Kursi 5, 10415 Tallinn"
+  {
+    "name": "Kai Art",
+    "address": {
+      "city": "Tallinn",
+      "district": "noblesner",
+      "street": "Peetri 12, 10415 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNf1FwVY-esvSN8mRm7twqgiGKUT737CDV6C8pt=w408-h272-k-no",
+    "created": 1653046013,
+    "id": "2"
   },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipO2qBHFQDRwS_t2yUuccx6gtpDUBuVE2x56gJ79=w408-h272-k-no",
-  "created": 1653045953,
-  "id": "3"
- },
- {
-  "name": "Tallinn Art Hall",
-  "address": {
-   "city": "Tallinn",
-   "district": "kesklinn",
-   "street": "Vabaduse väljak 6, 10146 Tallinn"
+  {
+    "name": "Contemporary Art Museum of Estonia",
+    "address": {
+      "city": "Tallinn",
+      "district": "põhja-tallinn",
+      "street": "Kursi 5, 10415 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipO2qBHFQDRwS_t2yUuccx6gtpDUBuVE2x56gJ79=w408-h272-k-no",
+    "created": 1653045953,
+    "id": "3"
   },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipNC35hO6zUrWxUDoRtCupGAQF8QIGIRowvguZIj=w408-h272-k-no",
-  "created": 1653045893,
-  "id": "4"
- },
- {
-  "name": "Vaal",
-  "address": {
-   "city": "Tallinn",
-   "district": "telliskivi",
-   "street": "Telliskivi 60a/5, 10412 Tallinn"
+  {
+    "name": "Tallinn Art Hall",
+    "address": {
+      "city": "Tallinn",
+      "district": "kesklinn",
+      "street": "Vabaduse väljak 6, 10146 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNC35hO6zUrWxUDoRtCupGAQF8QIGIRowvguZIj=w408-h272-k-no",
+    "created": 1653045893,
+    "id": "4"
   },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipOIJbclDnfCk-gkFDkJpAOPdKUpzWfDmUj0_HyF=w408-h544-k-no",
-  "created": 1653045833,
-  "id": "5"
- },
- {
-  "name": "ArtDepoo",
-  "address": {
-   "city": "Tallinn",
-   "district": "põhja-tallinn",
-   "street": "Jahu 12, 10415 Tallinn"
+  {
+    "name": "Vaal",
+    "address": {
+      "city": "Tallinn",
+      "district": "telliskivi",
+      "street": "Telliskivi 60a/5, 10412 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipOIJbclDnfCk-gkFDkJpAOPdKUpzWfDmUj0_HyF=w408-h544-k-no",
+    "created": 1653045833,
+    "id": "5"
   },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipPWnS0pRds1yxA4MWs335OKtiLwH_buHL_J47fP=w408-h306-k-no",
-  "created": 1653045713,
-  "id": "7"
- },
- {
-  "name": "Juhan Kuusi Dokfoto Keskus",
-  "address": {
-   "city": "Tallinn",
-   "district": "telliskivi",
-   "street": "Telliskivi 60a-8, 10412 Tallinn"
+  {
+    "name": "ArtDepoo",
+    "address": {
+      "city": "Tallinn",
+      "district": "põhja-tallinn",
+      "street": "Jahu 12, 10415 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipPWnS0pRds1yxA4MWs335OKtiLwH_buHL_J47fP=w408-h306-k-no",
+    "created": 1653045713,
+    "id": "7"
   },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipMhAuguYrmb9gsEgbsuyWQvp9Yzw8QxW8-owvhv=w408-h271-k-no",
-  "created": 1653045653,
-  "id": "8"
- },
- {
-  "name": "Fotografiska",
-  "address": {
-   "city": "Tallinn",
-   "district": "telliskivi",
-   "street": "Telliskivi 60a-8, 10412 Tallinn"
+  {
+    "name": "Juhan Kuusi Dokfoto Keskus",
+    "address": {
+      "city": "Tallinn",
+      "district": "telliskivi",
+      "street": "Telliskivi 60a-8, 10412 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMhAuguYrmb9gsEgbsuyWQvp9Yzw8QxW8-owvhv=w408-h271-k-no",
+    "created": 1653045653,
+    "id": "8"
   },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipNb2YjFahGIl91A_hvj1L84b9I851Kw8G3Zjas=w408-h291-k-no",
-  "created": 1653045593,
-  "id": "9"
- },
- {
-  "name": "Museum of Estonian Architecture, Ahtri, Tallinn",
-  "address": {
-   "city": "Tallinn",
-   "district": "rottermani",
-   "street": "Rotermanni 8, 10111 Tallinn"
+  {
+    "name": "Fotografiska",
+    "address": {
+      "city": "Tallinn",
+      "district": "telliskivi",
+      "street": "Telliskivi 60a-8, 10412 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNb2YjFahGIl91A_hvj1L84b9I851Kw8G3Zjas=w408-h291-k-no",
+    "created": 1653045593,
+    "id": "9"
   },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipMe1gYBHDlTCwCbynE1mIyk3K11a-3Aca1JkqJh=w408-h306-k-no",
-  "created": 1653045533,
-  "id": "10"
- },
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "name": "Museum of Estonian Architecture, Ahtri, Tallinn",
+    "address": {
+      "city": "Tallinn",
+      "district": "rottermani",
+      "street": "Rotermanni 8, 10111 Tallinn"
+    },
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMe1gYBHDlTCwCbynE1mIyk3K11a-3Aca1JkqJh=w408-h306-k-no",
+    "created": 1653045533,
+    "id": "10"
+  },
+  {
+    "name": "name 21",
+    "address": {},
+    "image": "image 21",
+    "created": 1655822049,
+    "id": "21",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 22",
+    "address": {},
+    "image": "image 22",
+    "created": 1655821990,
+    "id": "22",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 24",
+    "address": {},
+    "image": "image 24",
+    "created": 1655821877,
+    "id": "24",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 25",
+    "address": {},
+    "image": "image 25",
+    "created": 1655821821,
+    "id": "25",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 26",
+    "address": {},
+    "image": "image 26",
+    "created": 1655892076,
+    "id": "26",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 27",
+    "address": {},
+    "image": "image 27",
+    "created": 1655892017,
+    "id": "27",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 28",
+    "address": {},
+    "image": "image 28",
+    "created": 1655891958,
+    "id": "28",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 29",
+    "address": {},
+    "image": "image 29",
+    "created": 1655891903,
+    "id": "29",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 30",
+    "address": {},
+    "image": "image 30",
+    "created": 1656318622,
+    "id": "30",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 31",
+    "address": {},
+    "image": "image 31",
+    "created": 1656328784,
+    "id": "31",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 32",
+    "address": {},
+    "image": "image 32",
+    "created": 1656328726,
+    "id": "32",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 35",
+    "address": {},
+    "image": "image 35",
+    "created": 1656328550,
+    "id": "35",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 36",
+    "address": {},
+    "image": "image 36",
+    "created": 1656504826,
+    "id": "36",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 37",
+    "address": {},
+    "image": "image 37",
+    "created": 1656517446,
+    "id": "37",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 40",
+    "address": {},
+    "image": "image 40",
+    "created": 1656517271,
+    "id": "40",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 43",
+    "address": {},
+    "image": "image 43",
+    "created": 1656517095,
+    "id": "43",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 44",
+    "address": {},
+    "image": "image 44",
+    "created": 1656517056,
+    "id": "44",
+    "query": "query {}",
+    "key1": ""
+  },
+  {
+    "name": "name 46",
+    "address": {},
+    "image": "image 46",
+    "created": 1658938491,
+    "id": "46",
+    "operationName": null,
+    "query": "\n    query IntrospectionQuery {\n      __schema {\n        \n        queryType { name }\n        mutationType { name }\n        subscriptionType { name }\n        types {\n          ...FullType\n        }\n        directives {\n          name\n          description\n          \n          locations\n          args {\n            ...InputValue\n          }\n        }\n      }\n    }\n\n    fragment FullType on __Type {\n      kind\n      name\n      description\n      \n      fields(includeDeprecated: true) {\n        name\n        description\n        args {\n          ...InputValue\n        }\n        type {\n          ...TypeRef\n        }\n        isDeprecated\n        deprecationReason\n      }\n      inputFields {\n        ...InputValue\n      }\n      interfaces {\n        ...TypeRef\n      }\n      enumValues(includeDeprecated: true) {\n        name\n        description\n        isDeprecated\n        deprecationReason\n      }\n      possibleTypes {\n        ...TypeRef\n      }\n    }\n\n    fragment InputValue on __InputValue {\n      name\n      description\n      type { ...TypeRef }\n      defaultValue\n      \n      \n    }\n\n    fragment TypeRef on __Type {\n      kind\n      name\n      ofType {\n        kind\n        name\n        ofType {\n          kind\n          name\n          ofType {\n            kind\n            name\n            ofType {\n              kind\n              name\n              ofType {\n                kind\n                name\n                ofType {\n                  kind\n                  name\n                  ofType {\n                    kind\n                    name\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  ",
+    "variables": {}
+  },
+  {
+    "name": "name 47",
+    "address": {},
+    "image": "image 47",
+    "created": 1660227586,
+    "id": "47",
+    "operationName": null,
+    "query": "\n    query IntrospectionQuery {\n      __schema {\n        \n        queryType { name }\n        mutationType { name }\n        subscriptionType { name }\n        types {\n          ...FullType\n        }\n        directives {\n          name\n          description\n          \n          locations\n          args {\n            ...InputValue\n          }\n        }\n      }\n    }\n\n    fragment FullType on __Type {\n      kind\n      name\n      description\n      \n      fields(includeDeprecated: true) {\n        name\n        description\n        args {\n          ...InputValue\n        }\n        type {\n          ...TypeRef\n        }\n        isDeprecated\n        deprecationReason\n      }\n      inputFields {\n        ...InputValue\n      }\n      interfaces {\n        ...TypeRef\n      }\n      enumValues(includeDeprecated: true) {\n        name\n        description\n        isDeprecated\n        deprecationReason\n      }\n      possibleTypes {\n        ...TypeRef\n      }\n    }\n\n    fragment InputValue on __InputValue {\n      name\n      description\n      type { ...TypeRef }\n      defaultValue\n      \n      \n    }\n\n    fragment TypeRef on __Type {\n      kind\n      name\n      ofType {\n        kind\n        name\n        ofType {\n          kind\n          name\n          ofType {\n            kind\n            name\n            ofType {\n              kind\n              name\n              ofType {\n                kind\n                name\n                ofType {\n                  kind\n                  name\n                  ofType {\n                    kind\n                    name\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  ",
+    "variables": {}
+  },
+  {
+    "name": "name 48",
+    "address": {},
+    "image": "image 48",
+    "created": 1660227531,
+    "id": "48",
+    "operationName": null,
+    "query": "\n    query IntrospectionQuery {\n      __schema {\n        \n        queryType { name }\n        mutationType { name }\n        subscriptionType { name }\n        types {\n          ...FullType\n        }\n        directives {\n          name\n          description\n          \n          locations\n          args {\n            ...InputValue\n          }\n        }\n      }\n    }\n\n    fragment FullType on __Type {\n      kind\n      name\n      description\n      \n      fields(includeDeprecated: true) {\n        name\n        description\n        args {\n          ...InputValue\n        }\n        type {\n          ...TypeRef\n        }\n        isDeprecated\n        deprecationReason\n      }\n      inputFields {\n        ...InputValue\n      }\n      interfaces {\n        ...TypeRef\n      }\n      enumValues(includeDeprecated: true) {\n        name\n        description\n        isDeprecated\n        deprecationReason\n      }\n      possibleTypes {\n        ...TypeRef\n      }\n    }\n\n    fragment InputValue on __InputValue {\n      name\n      description\n      type { ...TypeRef }\n      defaultValue\n      \n      \n    }\n\n    fragment TypeRef on __Type {\n      kind\n      name\n      ofType {\n        kind\n        name\n        ofType {\n          kind\n          name\n          ofType {\n            kind\n            name\n            ofType {\n              kind\n              name\n              ofType {\n                kind\n                name\n                ofType {\n                  kind\n                  name\n                  ofType {\n                    kind\n                    name\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  ",
+    "variables": {}
+  },
+  {
+    "name": "name 49",
+    "address": {},
+    "image": "image 49",
+    "created": 1661857050,
+    "id": "49",
+    "query": "\n    query IntrospectionQuery {\n      __schema {\n        \n        queryType { name }\n        mutationType { name }\n        subscriptionType { name }\n        types {\n          ...FullType\n        }\n        directives {\n          name\n          description\n          \n          locations\n          args {\n            ...InputValue\n          }\n        }\n      }\n    }\n\n    fragment FullType on __Type {\n      kind\n      name\n      description\n      \n      fields(includeDeprecated: true) {\n        name\n        description\n        args {\n          ...InputValue\n        }\n        type {\n          ...TypeRef\n        }\n        isDeprecated\n        deprecationReason\n      }\n      inputFields {\n        ...InputValue\n      }\n      interfaces {\n        ...TypeRef\n      }\n      enumValues(includeDeprecated: true) {\n        name\n        description\n        isDeprecated\n        deprecationReason\n      }\n      possibleTypes {\n        ...TypeRef\n      }\n    }\n\n    fragment InputValue on __InputValue {\n      name\n      description\n      type { ...TypeRef }\n      defaultValue\n      \n      \n    }\n\n    fragment TypeRef on __Type {\n      kind\n      name\n      ofType {\n        kind\n        name\n        ofType {\n          kind\n          name\n          ofType {\n            kind\n            name\n            ofType {\n              kind\n              name\n              ofType {\n                kind\n                name\n                ofType {\n                  kind\n                  name\n                  ofType {\n                    kind\n                    name\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  ",
+    "variables": {}
+  },
+  {
+    "name": "name 50",
+    "address": {},
+    "image": "image 50",
+    "created": 1661857571,
+    "id": "50",
+    "query": "\n    query IntrospectionQuery {\n      __schema {\n        \n        queryType { name }\n        mutationType { name }\n        subscriptionType { name }\n        types {\n          ...FullType\n        }\n        directives {\n          name\n          description\n          \n          locations\n          args {\n            ...InputValue\n          }\n        }\n      }\n    }\n\n    fragment FullType on __Type {\n      kind\n      name\n      description\n      \n      fields(includeDeprecated: true) {\n        name\n        description\n        args {\n          ...InputValue\n        }\n        type {\n          ...TypeRef\n        }\n        isDeprecated\n        deprecationReason\n      }\n      inputFields {\n        ...InputValue\n      }\n      interfaces {\n        ...TypeRef\n      }\n      enumValues(includeDeprecated: true) {\n        name\n        description\n        isDeprecated\n        deprecationReason\n      }\n      possibleTypes {\n        ...TypeRef\n      }\n    }\n\n    fragment InputValue on __InputValue {\n      name\n      description\n      type { ...TypeRef }\n      defaultValue\n      \n      \n    }\n\n    fragment TypeRef on __Type {\n      kind\n      name\n      ofType {\n        kind\n        name\n        ofType {\n          kind\n          name\n          ofType {\n            kind\n            name\n            ofType {\n              kind\n              name\n              ofType {\n                kind\n                name\n                ofType {\n                  kind\n                  name\n                  ofType {\n                    kind\n                    name\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  ",
+    "variables": {}
   }
-}
+]
