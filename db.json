@@ -1,16 +1,6 @@
 {
   "galleries": [
- {
-  "name": "Kumu",
-  "address": {
-   "city": "Tallinn",
-   "district": "kadriorg",
-   "street": "A. Weizenbergi 34, 10127 Tallinn"
-  },
-  "image": "https://lh5.googleusercontent.com/p/AF1QipMbFoj6AqzAZo-hKX9y2euef4y8U3wqusDANkEE=w408-h306-k-no",
-  "created": 1653046073,
-  "id": "1"
- },
+ {"name": "Kumu", "address": {"city": "Tallinn","district": "kadriorg","street": "A. Weizenbergi 34, 10127 Tallinn"},"image": "https://lh5.googleusercontent.com/p/AF1QipMbFoj6AqzAZo-hKX9y2euef4y8U3wqusDANkEE=w408-h306-k-no","created": 1653046073,"id": "1"},
  {
   "name": "Kai Art",
   "address": {
