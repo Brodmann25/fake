@@ -1,8 +1,105 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "galleries": [
+    [
+ {
+  "name": "Kumu",
+  "address": {
+   "city": "Tallinn",
+   "district": "kadriorg",
+   "street": "A. Weizenbergi 34, 10127 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipMbFoj6AqzAZo-hKX9y2euef4y8U3wqusDANkEE=w408-h306-k-no",
+  "created": 1653046073,
+  "id": "1"
+ },
+ {
+  "name": "Kai Art",
+  "address": {
+   "city": "Tallinn",
+   "district": "noblesner",
+   "street": "Peetri 12, 10415 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipNf1FwVY-esvSN8mRm7twqgiGKUT737CDV6C8pt=w408-h272-k-no",
+  "created": 1653046013,
+  "id": "2"
+ },
+ {
+  "name": "Contemporary Art Museum of Estonia",
+  "address": {
+   "city": "Tallinn",
+   "district": "põhja-tallinn",
+   "street": "Kursi 5, 10415 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipO2qBHFQDRwS_t2yUuccx6gtpDUBuVE2x56gJ79=w408-h272-k-no",
+  "created": 1653045953,
+  "id": "3"
+ },
+ {
+  "name": "Tallinn Art Hall",
+  "address": {
+   "city": "Tallinn",
+   "district": "kesklinn",
+   "street": "Vabaduse väljak 6, 10146 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipNC35hO6zUrWxUDoRtCupGAQF8QIGIRowvguZIj=w408-h272-k-no",
+  "created": 1653045893,
+  "id": "4"
+ },
+ {
+  "name": "Vaal",
+  "address": {
+   "city": "Tallinn",
+   "district": "telliskivi",
+   "street": "Telliskivi 60a/5, 10412 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipOIJbclDnfCk-gkFDkJpAOPdKUpzWfDmUj0_HyF=w408-h544-k-no",
+  "created": 1653045833,
+  "id": "5"
+ },
+ {
+  "name": "ArtDepoo",
+  "address": {
+   "city": "Tallinn",
+   "district": "põhja-tallinn",
+   "street": "Jahu 12, 10415 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipPWnS0pRds1yxA4MWs335OKtiLwH_buHL_J47fP=w408-h306-k-no",
+  "created": 1653045713,
+  "id": "7"
+ },
+ {
+  "name": "Juhan Kuusi Dokfoto Keskus",
+  "address": {
+   "city": "Tallinn",
+   "district": "telliskivi",
+   "street": "Telliskivi 60a-8, 10412 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipMhAuguYrmb9gsEgbsuyWQvp9Yzw8QxW8-owvhv=w408-h271-k-no",
+  "created": 1653045653,
+  "id": "8"
+ },
+ {
+  "name": "Fotografiska",
+  "address": {
+   "city": "Tallinn",
+   "district": "telliskivi",
+   "street": "Telliskivi 60a-8, 10412 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipNb2YjFahGIl91A_hvj1L84b9I851Kw8G3Zjas=w408-h291-k-no",
+  "created": 1653045593,
+  "id": "9"
+ },
+ {
+  "name": "Museum of Estonian Architecture, Ahtri, Tallinn",
+  "address": {
+   "city": "Tallinn",
+   "district": "rottermani",
+   "street": "Rotermanni 8, 10111 Tallinn"
+  },
+  "image": "https://lh5.googleusercontent.com/p/AF1QipMe1gYBHDlTCwCbynE1mIyk3K11a-3Aca1JkqJh=w408-h306-k-no",
+  "created": 1653045533,
+  "id": "10"
+ },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
