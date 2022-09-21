@@ -11,6 +11,18 @@
     {
       "id": 3,
       "title": "kai_art"
+    },
+    {
+      "id": 4,
+      "title": "vaal"
+    },
+    {
+      "id": 5,
+      "title": "fotografishka"
+    },
+    {
+      "id": 6,
+      "title": "kunstihoone"
     }
   ],
   "comments": [
@@ -26,6 +38,7 @@
     }
   ],
   "profile": {
+    "id": "1",
     "name": "typicode"
   }
 }
